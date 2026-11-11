@@ -1,0 +1,6 @@
+{
+  "name": "Hichem Bousaada Portfolio App",
+  "description": "Progressive Web Application (Android Installable PWA) for Hichem Bousaada digital creator, web and Android developer portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
